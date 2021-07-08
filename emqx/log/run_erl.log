@@ -1,0 +1,8 @@
+run_erl [53500] Thu Jul  8 10:51:57 2021
+Args before exec of shell:
+run_erl [53500] Thu Jul  8 10:51:57 2021
+argv[0] = sh
+run_erl [53500] Thu Jul  8 10:51:57 2021
+argv[1] = -c
+run_erl [53500] Thu Jul  8 10:51:57 2021
+argv[2] = exec "/home/roberto/Documentos/IoT/cursoUdemy/emqx/bin/emqx" "console"
